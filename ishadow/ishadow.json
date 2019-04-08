@@ -1,0 +1,5 @@
+[
+{"address": "a.isxb.top", "port": "15585", "password": "isx.yt-00141221", "method": "Method:aes-256-cfb"},
+{"address": "b.isxb.top", "port": "11536", "password": "", "method": "Method:aes-256-cfb"},
+{"address": "c.isxb.top", "port": "17361", "password": "isx.yt-26064605", "method": "Method:aes-256-cfb"},
+]
